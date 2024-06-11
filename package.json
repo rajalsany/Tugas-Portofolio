@@ -1,0 +1,25 @@
+{
+  "name": "tugasportofolio",
+  "version": "1.0.0",
+  "description": "Website portofolio saya",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajalsany/Tugas-Portofolio.git"
+  },
+  "keywords": [
+    "4bb3yr0aD"
+  ],
+  "author": "Raja Siregar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajalsany/Tugas-Portofolio/issues"
+  },
+  "homepage": "https://github.com/rajalsany/Tugas-Portofolio#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
